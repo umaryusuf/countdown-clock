@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-size: 25px;
+}
+
+.App-title {
+  font-size: 1.4em;
+}
+
+input, button{
+  font-size: 18px;
+}
